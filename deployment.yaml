@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: anilkumar123prem/pr2
+        image: anilkumar123prem/pro2
         ports:
         - containerPort: 80
